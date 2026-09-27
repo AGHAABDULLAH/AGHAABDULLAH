@@ -1,9 +1,12 @@
-<!-- 🔥 Typing SVG Banner -->
+![](assets/Bottom_up.svg)
+
+![](assets/header_.png)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+I'm+Agha+Abdullah;Data+Scientist+%7C+Software+Engineer;Python,+R,+%26+SQL+Expert;Building+Data-Driven+%26+Spatial+Solutions" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm **Agha Abdullah**
+# 👨‍💻 Agha Abdullah | Data Scientist, Software Engineer & Spatial Analyst
 
 💻 **Data Scientist | Software Engineer | GIS & Spatial Analyst**  
 📧 **aghaabdullah94@gmail.com**  
