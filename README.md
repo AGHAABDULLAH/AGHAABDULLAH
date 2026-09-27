@@ -59,7 +59,7 @@ I have successfully delivered diverse projects ranging from **urban food desert 
 🎓 **Bachelor of Science | Computer Engineering**  
 _HITEC University Taxila, Department of Computer Engineering_ 
 
-🎓 **Big Data, Analytics & ICT Systems Development**  
+🎓 **MSc Computing and Information Systems**  
 _University of South Wales, Faculty of Computing, Engineering and Science_
 
 ---
