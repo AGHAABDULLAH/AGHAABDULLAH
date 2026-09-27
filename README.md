@@ -8,7 +8,7 @@
 
 # 👨‍💻 Agha Abdullah | Data Scientist, Software Engineer & Spatial Analyst
 
-💻 **Data Scientist | Software Engineer | GIS & Spatial Analyst**  
+💻 **Data Scientist | Computer Engineer | GIS & Spatial Analyst**  
 📧 **aghaabdullah94@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/aghaabdullah/) | [GitHub](https://github.com/AGHAABDULLAH)
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I’m a versatile **Data Scientist and Software Engineer** with a strong foundation in predictive modeling, exploratory data analysis, object-oriented programming, and spatial database architecture.
+I’m a versatile **Data Scientist and Computer Engineer** with a strong foundation in predictive modeling, exploratory data analysis, object-oriented programming, and spatial database architecture.
 
 My technical background bridges the gap between software development and deep analytics. I specialize in building **machine learning pipelines (Python, Scikit-learn, XGBoost)**, statistical models **(R)**, and complex spatial queries using **PostgreSQL and PostGIS**.
 
